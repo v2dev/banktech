@@ -1,0 +1,120 @@
+[
+  {
+    "Name": "Product 1",
+    "Event": "Event 1",
+    "CreatedDate": "2021-01-23",
+    "Amount": 50,
+    "CardNo": "Card 1",
+    "DeviceId": "A6886",
+    "UserName": "Jack"    
+  },
+  {
+    "Name": "Product 2",
+    "Event": "Event 1",
+    "CreatedDate": "2021-02-23",
+    "Amount": 60,
+    "CardNo": "Card 2",
+    "DeviceId": "A6886",
+    "UserName": "Jonas"   
+  },
+  {
+    "Name": "Product 3",
+    "Event": "Event 2",
+    "CreatedDate": "2021-03-23",
+    "Amount": 50,
+    "CardNo": "Card 2",
+    "DeviceId": "A6886",
+    "UserName": "Daniel"    
+  },
+  {
+    "Name": "Product 4",
+    "Event": "Event 2",
+    "CreatedDate": "2021-04-23",
+    "Amount": 70,
+    "CardNo": "Card 3",
+    "DeviceId": "A6886",
+    "UserName": "Jack"
+  },
+  {
+    "Name": "Product 5",
+    "Event": "Event 3",
+    "CreatedDate": "2021-05-23",
+    "Amount": 80,
+    "CardNo": "Card 3",
+    "DeviceId": "A6886",
+    "UserName": "Daniel"
+  },
+  {
+    "Name": "Product 6",
+    "Event": "Event 4",
+    "CreatedDate": "2021-05-23",
+    "Amount": 60,
+    "CardNo": "Card 4",
+    "DeviceId": "A6886",
+    "UserName": "Jonas"
+  },
+  {
+    "Name": "Product 7",
+    "Event": "Event 5",
+    "CreatedDate": "2021-06-23",
+    "Amount": 60,
+    "CardNo": "Card 3",
+    "DeviceId": "A6886",
+    "UserName": "Jonas"
+  },
+  {
+    "Name": "Product 8",
+    "Event": "Event 1",
+    "CreatedDate": "2021-06-23",
+    "Amount": 50,
+    "CardNo": "Card 4",
+    "DeviceId": "A6886",
+    "UserName": "Daniel"
+  },
+  {
+    "Name": "Product 9",
+    "Event": "Event 6",
+    "CreatedDate": "2021-07-23",
+    "Amount": 0.512,
+    "CardNo": "Card 4",
+    "DeviceId": "A6886",
+    "UserName": "Jack"
+  },
+  {
+    "Name": "Product 10",
+    "Event": "Event 7",
+    "CreatedDate": "2021-07-23",
+    "Amount": 0.415,
+    "CardNo": "Card 4",
+    "DeviceId": "A6886",
+    "UserName": "Jack"
+  },
+  {
+    "Name": "Product 11",
+    "Event": "Event 7",
+    "CreatedDate": "2021-07-23",
+    "Amount": 0.402,
+    "CardNo": "Card 5",
+    "DeviceId": "A6886",
+    "UserName": "Daniel"
+  },
+  {
+    "Name": "Product 12",
+    "Event": "Event 8",
+    "CreatedDate": "2021-08-23",
+    "Amount": 0.366,
+    "CardNo": "Card 6",
+    "DeviceId": "A6886",
+    "UserName": "Daniel"
+  },
+  {
+    "Name": "Product 13",
+    "Event": "Event 9",
+    "CreatedDate": "2021-08-23",
+    "Amount": 0.329,
+    "CardNo": "Card 6",
+    "DeviceId": "A6886",
+    "UserName": "Jack"
+  }
+ 
+]
