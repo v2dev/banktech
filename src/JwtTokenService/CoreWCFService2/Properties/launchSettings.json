@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CoreWCFService2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://172.21.176.1:5190;"
+    }
+  }
+}
